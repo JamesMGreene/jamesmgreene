@@ -1,6 +1,12 @@
 # Hello! I'm James. 👋
 
-I am a "seasoned" software engineer, currently working for [GitHub](https://github.com/) on [Actions](https://github.com/features/actions), [Pages](https://pages.github.com/), deployments, and more. :octocat:
+<!-- markdownlint-disable line-length -->
+
+I am a "seasoned" software engineer, currently working for [GitHub](https://github.com/)
+on [Actions](https://github.com/features/actions), [Pages](https://pages.github.com/),
+deployments, and more. :octocat:
+
+<!-- markdownlint-enable line-length -->
 
 ## About me
 
