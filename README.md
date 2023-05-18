@@ -1,8 +1,8 @@
-### Hello! I'm James. 👋
+# Hello! I'm James. 👋
 
 I am a "seasoned" software engineer, currently working for [GitHub](https://github.com/) on [Actions](https://github.com/features/actions), [Pages](https://pages.github.com/), deployments, and more. :octocat:
 
-#### About me
+## About me
 
 - **Pronouns:** he/him
 - Husband to my wife. 🤵‍♂️ 👰‍♀️
