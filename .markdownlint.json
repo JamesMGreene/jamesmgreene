@@ -1,0 +1,68 @@
+{
+  "code-block-style": {
+    "style": "fenced"
+  },
+  "code-fence-style": {
+    "style": "backtick"
+  },
+  "emphasis-style": {
+    "style": "underscore"
+  },
+  "fenced-code-language": {
+    "allowed_languages": [
+      "bash",
+      "html",
+      "javascript",
+      "json",
+      "markdown",
+      "shell",
+      "text"
+    ],
+    "language_only": true
+  },
+  "heading-increment": true,
+  "heading-style": {
+    "style": "atx"
+  },
+  "hr-style": {
+    "style": "---"
+  },
+  "line-length": {
+    "strict": false,
+    "stern": true,
+    "code_blocks": false
+  },
+  "no-alt-text": true,
+  "no-default-alt-text": true,
+  "no-duplicate-header": true,
+  "no-duplicate-heading": {
+    "siblings_only": true
+  },
+  "no-emphasis-as-header": true,
+  "no-generic-link-text": true,
+  "no-space-in-links": false,
+  "ol-prefix": {
+    "style": "ordered"
+  },
+  "proper-names": {
+    "code_blocks": false,
+    "names": [
+      "Actions",
+      "CommonMark",
+      "GitHub",
+      "JavaScript",
+      "Markdown",
+      "markdownlint",
+      "Node.js",
+      "Pages"
+    ]
+  },
+  "single-h1": true,
+  "single-trailing-newline": true,
+  "strong-style": {
+    "style": "asterisk"
+  },
+  "ul-style": {
+    "style": "dash"
+  }
+}
