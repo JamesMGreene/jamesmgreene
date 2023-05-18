@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! I'm James. 👋
 
-<!--
-**JamesMGreene/jamesmgreene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a "seasoned" software engineer, currently working for [GitHub](https://github.com/) on the [Actions](https://github.com/features/actions), [Pages](https://pages.github.com/), deployments, and more. :octocat:
 
-Here are some ideas to get you started:
+#### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Pronouns:** he/him
+- Husband to my wife. 🤵‍♂️ 👰‍♀️
+- Father to my daughter. 🧒
+- Servant to my cats. 🐱 🐈
+- Ally. 🏳️‍🌈 🏳️‍⚧️ 🖤 🤎 ❤️ 🧡 💛 💚 💙 💜 🤍 
+- Open source enthusiast. 💝
+- Lifelong learner. 📚
+- Scuba diver, traveler, nature enthusiast, hiker, camper, explorer. 🥾
+- Handy but willing to admit my limits. 🛠️
