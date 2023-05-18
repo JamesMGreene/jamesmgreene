@@ -8,7 +8,7 @@ I am a "seasoned" software engineer, currently working for [GitHub](https://gith
 - Husband to my wife. 🤵‍♂️ 👰‍♀️
 - Father to my daughter. 🧒
 - Servant to my cats. 🐱 🐈
-- Ally. 🏳️‍🌈 🏳️‍⚧️ 🖤 🤎 ❤️ 🧡 💛 💚 💙 💜 🤍 
+- Ally. 🏳️‍🌈 🏳️‍⚧️ 🖤 🤎 ❤️ 🧡 💛 💚 💙 💜 🤍
 - Open source enthusiast. 💝
 - Lifelong learner. 📚
 - Scuba diver, traveler, nature enthusiast, hiker, camper, explorer. 🥾
